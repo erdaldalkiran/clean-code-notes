@@ -15,3 +15,14 @@ them irrelevant. Focus you architecture on use cases not software environment.
 
 **Boundaries :** Isolates uses cases from delivery mechanism(web, console app, etc)
 and provide a communication pathway between the two.
+
+##Books Recomended##
+Object Oriented Software Engineering: A Use Case Driven Approach by Ivar Jacobson
+
+Writing Effective Use Cases  by Alistair Cockburn
+
+User Stories Applied: For Agile Software Development by Mike Cohn
+
+Agile Software Development, Principles, Patterns, and Practices by Robert C. Martin
+
+Agile Principles, Patterns, and Practices in C# by Robert C. Martin
